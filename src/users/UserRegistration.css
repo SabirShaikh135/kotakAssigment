@@ -1,0 +1,40 @@
+.container{
+    width: 700px;
+    padding: 50px;
+    margin-top: 100px;
+    background-color:white;
+    border-radius: 15px;
+}
+
+.form-group{
+    padding: 10px;
+
+}
+
+.help-block{
+    color: red;
+    font-size: 1.3rem;
+}
+
+body{
+    background-color: #8fc4b7;
+}
+
+.form-group label{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.list-group-item{
+    cursor: pointer;
+}
+
+.userProfile-Card{
+margin: auto;
+margin-top: 150px;
+}
+.formFileSm{
+    border: transparent;
+    width: 90px;
+    margin: auto;
+}
